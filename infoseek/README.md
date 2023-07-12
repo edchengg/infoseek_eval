@@ -21,7 +21,7 @@ infoseek_data/
     infoseek_val_withkb.jsonl
 ```
 
-Question type for Evaluation (Download from Google Drive 7/7/2023):
+Question type for Evaluation:
 ```
 infoseek_data/
     infoseek_val_qtype.jsonl
