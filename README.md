@@ -1,6 +1,5 @@
-# InfoSeek Evaluation Toolkit (Unofficial)
-
-[[Project Page]](https://open-vision-language.github.io/infoseek/)[[Paper]](https://arxiv.org/abs/2302.11713)
+# InfoSeek Evaluation Toolkit
+[Community Contribution][[Project Page]](https://open-vision-language.github.io/infoseek/)[[Paper]](https://arxiv.org/abs/2302.11713)
 [[Dataset]](#infoseek-dataset)[[Sibling Project (OVEN)]](https://open-vision-language.github.io/oven/)
 
 <p align="center">
