@@ -1,7 +1,7 @@
 # InfoSeek Evaluation Toolkit
 - Community Contributed Repository
 - [[Project Page]](https://open-vision-language.github.io/infoseek/)[[Paper]](https://arxiv.org/abs/2302.11713)
-[[Dataset]](#infoseek-dataset)[[Sibling Project (OVEN)]](https://open-vision-language.github.io/oven/)
+[[Official Dataset Page]](https://github.com/open-vision-language/infoseek)[[Sibling Project (OVEN)]](https://open-vision-language.github.io/oven/)
 
 <p align="center">
     <img src="assets/infoseek.jpg" width="100%"> <br>
