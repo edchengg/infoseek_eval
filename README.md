@@ -13,7 +13,6 @@
 [Yang Chen](https://edchengg.github.io/), [Hexiang Hu](https://www.hexianghu.com/), [Yi Luan](https://luanyi.github.io/), [Haitian Sun](https://scholar.google.com/citations?user=opSHsTQAAAAJ&hl=en), [Soravit Changpinyo](https://schangpi.github.io/), [Alan Ritter](http://aritter.github.io/index.html) and [Ming-Wei Chang](https://mingweichang.org/).
 
 ## Release
-- [7/31] Updated InfoSeek [manuscript](https://drive.google.com/file/d/16qLhJYm2owOzeL1YQyqpijByMtoxvsdk/view?usp=sharing) with new results from PaLI-X, BLIP2, InstructBLIP.
 - [6/7] We are releasing [InfoSeek Dataset](#infoseek-dataset) and evaluation script. 
 
 ## InfoSeek Dataset
