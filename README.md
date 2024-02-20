@@ -43,6 +43,11 @@ Run BLIP2 zero-shot inference:
 python run_blip2_infoseek.py --split val
 ```
 
+Run BLIP2 fine-tuning:
+```python
+python run_training_lavis.py
+```
+
 ## Acknowledgement
 If you find InfoSeek useful for your your research and applications, please cite using this BibTeX:
 ```
